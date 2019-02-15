@@ -1,6 +1,7 @@
 #Author: Andre Dugas
 #File: Unigram Model
 #Date: February 6, 2019
+#Course: Natural Language Processing
 
 #Imported Libraries
 from collections import Counter #To count word frequencies
